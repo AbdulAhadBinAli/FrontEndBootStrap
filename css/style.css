@@ -34,8 +34,7 @@
 .logo-text{
   position:absolute;
   margin-bottom: 300px;
-  margin-left: 30%;
-  
+  margin-left: 300px; 
 }
 
 .battlefield {
@@ -86,4 +85,10 @@
   padding-right: 15px;
   text-align: center;
   }
+
+  .logo-text{
+  position:absolute;
+  margin-bottom: 300px;
+  margin-left: 0; 
+}
 }
